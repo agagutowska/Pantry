@@ -11,6 +11,7 @@ This application allows you to manage the inventory of your pantry by keeping tr
 - **User Authentication**: Secure access with user account and password using Spring Security.
 - **Database Storage**: Utilizes MySQL database and Hibernate for data persistence.
 - **User-Friendly Interface**: Web-based interface using Thymeleaf templates for easy interaction.
+- **Validation and Unit Tests**: Verify the correctness of the entered data.
 
 ## Technologies Used
 
